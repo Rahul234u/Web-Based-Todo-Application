@@ -95,7 +95,7 @@ todo-app/
 ---
 
 ## Screenshots
-<img src = "<img width="1913" height="965" alt="image" src="https://github.com/user-attachments/assets/bedfe046-5bfb-4142-a1e8-de211634dff0" />
-">
+<img width="1913" height="965" alt="Todo App" src="https://github.com/user-attachments/assets/bedfe046-5bfb-4142-a1e8-de211634dff0" />
+
 
 ---
